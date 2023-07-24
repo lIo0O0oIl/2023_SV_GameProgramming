@@ -13,5 +13,39 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="0. 기초">
+      <UniqueIdentifier>{abd916b0-072c-49ab-9810-29272363f768}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1. 시작.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="2. 자료형.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="3. 연산자.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="4. 제어문.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 변수.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="6. 구조체.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="7. 포인터.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h">
+      <Filter>0. 기초</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
