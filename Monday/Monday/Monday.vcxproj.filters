@@ -16,6 +16,9 @@
     <Filter Include="0. 기초">
       <UniqueIdentifier>{abd916b0-072c-49ab-9810-29272363f768}</UniqueIdentifier>
     </Filter>
+    <Filter Include="1. 클래스">
+      <UniqueIdentifier>{36a0f44d-7777-4a79-bc8a-2005f1a2fa2f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1. 시작.cpp">
@@ -42,9 +45,36 @@
     <ClCompile Include="7. 포인터.cpp">
       <Filter>0. 기초</Filter>
     </ClCompile>
+    <ClCompile Include="8. const.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="9. 문자.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 함수.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>0. 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="0. 객체지향을 왜.cpp">
+      <Filter>1. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="1.캡슐화.cpp">
+      <Filter>1. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="2. 생성자.cpp">
+      <Filter>1. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="3.얕복 깊복.cpp">
+      <Filter>1. 클래스</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
+      <Filter>0. 기초</Filter>
+    </ClInclude>
+    <ClInclude Include="test2.h">
       <Filter>0. 기초</Filter>
     </ClInclude>
   </ItemGroup>

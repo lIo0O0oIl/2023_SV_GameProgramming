@@ -5,7 +5,7 @@ using namespace std;
 // c++ 에서 객체지향 나오면서 클래스가 나온거임
 
 typedef int INT;		// 이름만 정해준것
-struct  People	// 14 -> 16	(short 뒤에 2 쓰레기값=패딩)
+struct  People	// 14 -> 16	(short 뒤에 2 쓰레기값=패딩) = 구조체 패딩
 {
 	short id;		//2
 	int age;			//4
