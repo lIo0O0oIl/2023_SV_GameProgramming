@@ -2,9 +2,10 @@
 using namespace std;
 
 /*
-얕은 복사 (shallow copy) vs 깊은 복사(deep copy)
-=> 클래스를 만들
-
+* 얕은복사(shallow copy) vs 깊은복사(deep copy)
+* => 클래스를 만들잖아? 자료형을 쓰겠다는게 아니라. 내맘대로 하나 구현
+* => 그 자료형에 포인터를 넣는 경우가 꽤나 많아
+* => 멤버를 포인터로 가지고 있을때 너희들은 얕복, 깊복에 대해서 꼭 생각
 */
 
 class MyData {

@@ -19,6 +19,9 @@
     <Filter Include="1. 클래스">
       <UniqueIdentifier>{36a0f44d-7777-4a79-bc8a-2005f1a2fa2f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="2. 연산자 오버로딩">
+      <UniqueIdentifier>{527c6188-4beb-43b3-8bfa-41b3cb7a1e98}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1. 시작.cpp">
@@ -60,14 +63,35 @@
     <ClCompile Include="0. 객체지향을 왜.cpp">
       <Filter>1. 클래스</Filter>
     </ClCompile>
-    <ClCompile Include="1.캡슐화.cpp">
+    <ClCompile Include="1. 캡슐화.cpp">
       <Filter>1. 클래스</Filter>
     </ClCompile>
     <ClCompile Include="2. 생성자.cpp">
       <Filter>1. 클래스</Filter>
     </ClCompile>
-    <ClCompile Include="3.얕복 깊복.cpp">
+    <ClCompile Include="3. 얕복 깊복.cpp">
       <Filter>1. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="4. 소멸자.cpp">
+      <Filter>1. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 체이닝콜.cpp">
+      <Filter>1. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="6. static(클래스).cpp">
+      <Filter>1. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="7. friend.cpp">
+      <Filter>1. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="2-1. 산술.cpp">
+      <Filter>2. 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2. 입출력 연산자.cpp">
+      <Filter>2. 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3. 객체 설계.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
