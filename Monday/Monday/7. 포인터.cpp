@@ -51,4 +51,6 @@ int main() {
 	short* sPtr = (short*)cArr;
 	data = *sPtr;
 	cout << data << endl;		//257
+
+	// 포인터에서 앞에 자료형 적어준 것은 포인터가 잡는 크기와 어떤 자료형으로 해석을 할지를 정해주는 것임
 }

@@ -22,6 +22,12 @@
     <Filter Include="2. 연산자 오버로딩">
       <UniqueIdentifier>{527c6188-4beb-43b3-8bfa-41b3cb7a1e98}</UniqueIdentifier>
     </Filter>
+    <Filter Include="3. 상속">
+      <UniqueIdentifier>{07964cee-c30e-4b5d-b585-2e5306daffbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4. 템플릿">
+      <UniqueIdentifier>{b87cd929-1257-45df-a7b7-7751eb6eed07}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1. 시작.cpp">
@@ -91,7 +97,22 @@
       <Filter>2. 연산자 오버로딩</Filter>
     </ClCompile>
     <ClCompile Include="2-3. 객체 설계.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>2. 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1. 상속 개념.cpp">
+      <Filter>3. 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2. 접근지정상속.cpp">
+      <Filter>3. 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3. 오버라이딩.cpp">
+      <Filter>3. 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4. 다이너믹캐스트.cpp">
+      <Filter>3. 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="4-1. 템플릿.cpp">
+      <Filter>4. 템플릿</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
